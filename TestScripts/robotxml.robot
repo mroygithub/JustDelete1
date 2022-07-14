@@ -28,6 +28,10 @@ Validate_Dynamix_Web_Element
     Open Browser   ${url}     ${browsername}
     Sleep    2
     Maximize Browser Window
+    # Split Popular Courses 
+    Maximize Browser Window
+    Sleep    2
+    Maximize Browser Window
     Sleep    2
 
     # Split Popular Courses
